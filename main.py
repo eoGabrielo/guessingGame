@@ -29,4 +29,4 @@ while numeroUsuario != numSorteado:
         numeroUsuario = contraCaracterSecond()
 
 
-print(f"ACERTOU!!!, numero {numSorteado} era o sorteado, PARABÉNS!!!")
+print(f"ACERTOU!!!, numero {numSorteado} era o sorteado, PARABÉNS!!")
