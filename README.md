@@ -7,7 +7,7 @@ Um simples jogo em Python onde o usuário tenta adivinhar um número sorteado en
 - Gera um número aleatório entre 1 e 10.
 - Solicita ao usuário para adivinhar o número.
 - Valida a entrada do usuário para garantir que seja um número inteiro.
-- Fornece feedback ao usuário sobre se o palpite está correto, menor ou maior que o número sorteado.
+- Fornece feedback ao usuário sobre se o palpite está correto.
 - Continua pedindo ao usuário para tentar novamente até que o palpite seja correto.
 
 ## Instruções de Uso
