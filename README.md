@@ -15,8 +15,3 @@ Um simples jogo em Python onde o usuário tenta adivinhar um número sorteado en
 1. Execute o script Python.
 2. Digite um número para adivinhar.
 3. O programa fornecerá feedback e pedirá novas tentativas até que o número correto seja adivinhado.
-
-## Como Jogar
-
-```python
-python jogo_adivinhacao.py
